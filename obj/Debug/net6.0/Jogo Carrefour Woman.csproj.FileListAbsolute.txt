@@ -1,0 +1,15 @@
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\bin\Debug\net6.0\Jogo Carrefour Woman.exe
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\bin\Debug\net6.0\Jogo Carrefour Woman.deps.json
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\bin\Debug\net6.0\Jogo Carrefour Woman.runtimeconfig.json
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\bin\Debug\net6.0\Jogo Carrefour Woman.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\bin\Debug\net6.0\Jogo Carrefour Woman.pdb
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.csproj.AssemblyReference.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.AssemblyInfoInputs.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.AssemblyInfo.cs
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.csproj.CoreCompileInputs.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\refint\Jogo Carrefour Woman.dll
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.pdb
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\Jogo Carrefour Woman.genruntimeconfig.cache
+C:\Users\fe__f\OneDrive\Documentos\Dev\Jogo Carrefour Woman\obj\Debug\net6.0\ref\Jogo Carrefour Woman.dll
